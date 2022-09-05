@@ -1,10 +1,10 @@
 /**
  * @name ShowHiddenChannelsV2
  * @author DevilBro, Salvage
- * @version 1.0.1
+ * @version 1.0.2
  * @description Actually displays all hidden Channels, which can't be accessed due to Role Restrictions, this won't allow you to read them (impossible)
  * @source https://github.com/Saalvage/BetterDiscordAddons/tree/master/Plugins/ShowHiddenChannelsV2/
- * @updateUrl https://cdn.jsdelivr.net/gh/Saalvage/BetterDiscordAddons/Plugins/ShowHiddenChannelsV2/ShowHiddenChannelsV2.plugin.js
+ * @updateUrl https://raw.githubusercontent.com/Saalvage/BetterDiscordAddons/master/Plugins/ShowHiddenChannelsV2/ShowHiddenChannelsV2.plugin.js
  */
 
 module.exports = (_ => {
@@ -203,7 +203,7 @@ module.exports = (_ => {
 				};
 				
 				this.css = `
-					accessModal-w5HjsV${BDFDB.dotCN.messagespopoutemptyplaceholder} {
+					.accessModal-w5HjsV${BDFDB.dotCN.messagespopoutemptyplaceholder} {
 						position: absolute;
 						bottom: 0;
 						width: 100%;
