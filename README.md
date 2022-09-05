@@ -5,6 +5,8 @@
 
 Contains a fixed version of [`ShowHiddenChannels`](https://github.com/Saalvage/BetterDiscordAddons/tree/master/Plugins/ShowHiddenChannelsV2)
 
+# If you're interested, take a look at the censorship-free BetterDiscord subreddit! https://www.reddit.com/r/OpenBetterDiscord/
+
 ## Note: BetterDiscord devs are a bunch of losers that spread misinformation and fearmongering among their community in order to further their own agenda. They are censoring dissenting opinions HARD. Make your voices heard, don't let yourself be silecned! Otherwise BetterDiscord is not any better than Discord itself.
 
 RIP Bozo
