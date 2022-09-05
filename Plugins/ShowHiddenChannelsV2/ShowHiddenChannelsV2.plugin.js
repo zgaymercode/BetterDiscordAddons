@@ -1,7 +1,7 @@
 /**
  * @name ShowHiddenChannelsV2
  * @author DevilBro, Salvage
- * @version 1.0.2
+ * @version 4.0.0
  * @description Actually displays all hidden Channels, which can't be accessed due to Role Restrictions, this won't allow you to read them (impossible)
  * @source https://github.com/Saalvage/BetterDiscordAddons/tree/master/Plugins/ShowHiddenChannelsV2/
  * @updateUrl https://raw.githubusercontent.com/Saalvage/BetterDiscordAddons/master/Plugins/ShowHiddenChannelsV2/ShowHiddenChannelsV2.plugin.js
